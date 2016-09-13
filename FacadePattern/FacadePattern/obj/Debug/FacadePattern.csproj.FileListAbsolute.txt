@@ -1,0 +1,9 @@
+c:\users\jacob\documents\visual studio 2013\Projects\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe.config
+c:\users\jacob\documents\visual studio 2013\Projects\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe
+c:\users\jacob\documents\visual studio 2013\Projects\FacadePattern\FacadePattern\bin\Debug\FacadePattern.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2013\Projects\FacadePattern\FacadePattern\obj\Debug\FacadePattern.Form1.resources
+c:\users\jacob\documents\visual studio 2013\Projects\FacadePattern\FacadePattern\obj\Debug\FacadePattern.Properties.Resources.resources
+c:\users\jacob\documents\visual studio 2013\Projects\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csproj.GenerateResource.Cache
+c:\users\jacob\documents\visual studio 2013\Projects\FacadePattern\FacadePattern\obj\Debug\FacadePattern.exe
+c:\users\jacob\documents\visual studio 2013\Projects\FacadePattern\FacadePattern\obj\Debug\FacadePattern.pdb

@@ -1,0 +1,10 @@
+c:\users\jacob\documents\visual studio 2013\Projects\ObserverNET\ObserverNET\bin\Debug\ObserverNET.exe.config
+c:\users\jacob\documents\visual studio 2013\Projects\ObserverNET\ObserverNET\bin\Debug\ObserverNET.exe
+c:\users\jacob\documents\visual studio 2013\Projects\ObserverNET\ObserverNET\bin\Debug\ObserverNET.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\ObserverNET\ObserverNET\obj\Debug\ObserverNET.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2013\Projects\ObserverNET\ObserverNET\obj\Debug\ObserverNET.Form1.resources
+c:\users\jacob\documents\visual studio 2013\Projects\ObserverNET\ObserverNET\obj\Debug\ObserverNET.Form2.resources
+c:\users\jacob\documents\visual studio 2013\Projects\ObserverNET\ObserverNET\obj\Debug\ObserverNET.Properties.Resources.resources
+c:\users\jacob\documents\visual studio 2013\Projects\ObserverNET\ObserverNET\obj\Debug\ObserverNET.csproj.GenerateResource.Cache
+c:\users\jacob\documents\visual studio 2013\Projects\ObserverNET\ObserverNET\obj\Debug\ObserverNET.exe
+c:\users\jacob\documents\visual studio 2013\Projects\ObserverNET\ObserverNET\obj\Debug\ObserverNET.pdb

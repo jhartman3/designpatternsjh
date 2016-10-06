@@ -1,0 +1,9 @@
+c:\users\jacob\documents\visual studio 2013\Projects\SketchPad\SketchPad\bin\Debug\SketchPad.exe.config
+c:\users\jacob\documents\visual studio 2013\Projects\SketchPad\SketchPad\bin\Debug\SketchPad.exe
+c:\users\jacob\documents\visual studio 2013\Projects\SketchPad\SketchPad\bin\Debug\SketchPad.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\SketchPad\SketchPad\obj\Debug\SketchPad.Form1.resources
+c:\users\jacob\documents\visual studio 2013\Projects\SketchPad\SketchPad\obj\Debug\SketchPad.Properties.Resources.resources
+c:\users\jacob\documents\visual studio 2013\Projects\SketchPad\SketchPad\obj\Debug\SketchPad.csproj.GenerateResource.Cache
+c:\users\jacob\documents\visual studio 2013\Projects\SketchPad\SketchPad\obj\Debug\SketchPad.exe
+c:\users\jacob\documents\visual studio 2013\Projects\SketchPad\SketchPad\obj\Debug\SketchPad.pdb
+C:\Users\Jacob\documents\visual studio 2013\Projects\SketchPad\SketchPad\obj\Debug\SketchPad.csprojResolveAssemblyReference.cache

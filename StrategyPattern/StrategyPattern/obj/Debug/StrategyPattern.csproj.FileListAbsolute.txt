@@ -1,0 +1,9 @@
+c:\users\jacob\documents\visual studio 2013\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+c:\users\jacob\documents\visual studio 2013\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+c:\users\jacob\documents\visual studio 2013\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2013\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Form1.resources
+c:\users\jacob\documents\visual studio 2013\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+c:\users\jacob\documents\visual studio 2013\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.Cache
+c:\users\jacob\documents\visual studio 2013\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+c:\users\jacob\documents\visual studio 2013\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb

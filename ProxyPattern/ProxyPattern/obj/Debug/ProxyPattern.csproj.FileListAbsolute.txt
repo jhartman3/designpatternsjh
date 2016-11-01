@@ -1,0 +1,9 @@
+c:\users\jacob\documents\visual studio 2013\Projects\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.Form1.resources
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.Properties.Resources.resources
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csproj.GenerateResource.Cache
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb

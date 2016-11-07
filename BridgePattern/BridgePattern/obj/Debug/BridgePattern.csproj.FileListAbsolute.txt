@@ -1,0 +1,9 @@
+c:\users\jacob\documents\visual studio 2013\Projects\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe.config
+c:\users\jacob\documents\visual studio 2013\Projects\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2013\Projects\BridgePattern\BridgePattern\obj\Debug\BridgePattern.Form1.resources
+c:\users\jacob\documents\visual studio 2013\Projects\BridgePattern\BridgePattern\obj\Debug\BridgePattern.Properties.Resources.resources
+c:\users\jacob\documents\visual studio 2013\Projects\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csproj.GenerateResource.Cache
+c:\users\jacob\documents\visual studio 2013\Projects\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe
+c:\users\jacob\documents\visual studio 2013\Projects\BridgePattern\BridgePattern\bin\Debug\BridgePattern.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\BridgePattern\BridgePattern\obj\Debug\BridgePattern.exe
+c:\users\jacob\documents\visual studio 2013\Projects\BridgePattern\BridgePattern\obj\Debug\BridgePattern.pdb

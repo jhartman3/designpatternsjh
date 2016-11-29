@@ -1,0 +1,9 @@
+c:\users\jacob\documents\visual studio 2013\Projects\StatePattern\StatePattern\bin\Debug\StatePattern.exe.config
+c:\users\jacob\documents\visual studio 2013\Projects\StatePattern\StatePattern\bin\Debug\StatePattern.exe
+c:\users\jacob\documents\visual studio 2013\Projects\StatePattern\StatePattern\bin\Debug\StatePattern.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\StatePattern\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2013\Projects\StatePattern\StatePattern\obj\Debug\StatePattern.Form1.resources
+c:\users\jacob\documents\visual studio 2013\Projects\StatePattern\StatePattern\obj\Debug\StatePattern.Properties.Resources.resources
+c:\users\jacob\documents\visual studio 2013\Projects\StatePattern\StatePattern\obj\Debug\StatePattern.csproj.GenerateResource.Cache
+c:\users\jacob\documents\visual studio 2013\Projects\StatePattern\StatePattern\obj\Debug\StatePattern.exe
+c:\users\jacob\documents\visual studio 2013\Projects\StatePattern\StatePattern\obj\Debug\StatePattern.pdb

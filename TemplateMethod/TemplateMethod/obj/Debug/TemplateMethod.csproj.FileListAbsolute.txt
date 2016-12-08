@@ -1,0 +1,9 @@
+c:\users\jacob\documents\visual studio 2013\Projects\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+c:\users\jacob\documents\visual studio 2013\Projects\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+c:\users\jacob\documents\visual studio 2013\Projects\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2013\Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.Form1.resources
+c:\users\jacob\documents\visual studio 2013\Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.Properties.Resources.resources
+c:\users\jacob\documents\visual studio 2013\Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csproj.GenerateResource.Cache
+c:\users\jacob\documents\visual studio 2013\Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+c:\users\jacob\documents\visual studio 2013\Projects\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
